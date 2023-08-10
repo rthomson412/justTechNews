@@ -48,7 +48,7 @@
   
   textarea:focus, input:focus {
     outline: none;
-    border: 1px solid #3486eb;
+    border: 3px solid #3486eb;
   }
   
   textarea {
